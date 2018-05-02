@@ -1,0 +1,14 @@
+
+header > img{
+    margin-left :23px
+}
+
+
+footer {
+    background-color: gray;
+    color:white;
+}
+
+footer .col:first-child p:first-child {
+    font-weight: bold;
+}
